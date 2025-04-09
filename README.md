@@ -32,7 +32,7 @@ Syntax-aware Transformer는 기존 Transformer 모델에 문법적 구조 정보
 이 연구를 인용할 때는 다음 형식을 사용해 주세요:
 
 ```
-홍성관. (2025). TAGbank를 활용한 Syntax-aware Transformer 모델의 성능 향상 연구. 인공지능공학과, 제주대학교.
+홍성관. (2025). TAGbank를 활용한 Syntax-aware Transformer 모델의 성능 향상 연구. 인공지능공학과, 제주한라대학교.
 ```
 
 ## 라이센스
