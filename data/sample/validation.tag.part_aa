@@ -1,0 +1,1480 @@
+# Sentence: The advanced robotics system performed complex manufacturing tasks autonomously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 advanced jj 3 beta _ )NP
+3 robotics nn 4 beta _ )NP
+4 system nn 5 alpha _ )NP )NP-SBJ
+5 performed vbd 0 alpha (VP _
+6 complex jj 8 beta (NP _
+7 manufacturing nn 8 beta _ )NP
+8 tasks nns 5 alpha _ )NP
+9 autonomously rb 5 beta (ADVP _ )ADVP )VP )S
+10 . punct 5 beta _ )S
+
+# Sentence: Environmental sensors detected significant changes in atmospheric composition.
+
+IDX LEX POS HD ELEM RHS LHS
+1 environmental jj 2 beta (S (S (NP-SBJ (NP _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 detected vbd 0 alpha (VP _
+4 significant jj 5 beta (NP _
+5 changes nns 3 alpha _ )NP
+6 in in 5 beta (PP _
+7 atmospheric jj 8 beta (NP _
+8 composition nn 6 alpha _ )NP )PP )VP )S
+9 . punct 3 beta _ )S
+
+# Sentence: The machine learning algorithm identified patterns in medical imaging data.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 machine nn 3 beta _ )NP
+3 learning nn 4 beta _ )NP
+4 algorithm nn 5 alpha _ )NP )NP-SBJ
+5 identified vbd 0 alpha (VP _
+6 patterns nns 5 alpha (NP _
+7 in in 6 beta (PP _
+8 medical jj 9 beta (NP _
+9 imaging nn 10 beta _ )NP
+10 data nn 7 alpha _ )NP )PP )NP )VP )S
+11 . punct 5 beta _ )S
+
+# Sentence: Scientists engineered bacteria to produce sustainable biofuels efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 scientists nns 2 beta (S (S (NP-SBJ (NP _
+2 engineered vbd 0 alpha (VP _
+3 bacteria nns 2 alpha (NP _ )NP
+4 to to 5 beta (VP _
+5 produce vb 2 alpha _ )VP
+6 sustainable jj 7 beta (NP _
+7 biofuels nns 5 alpha _ )NP
+8 efficiently rb 5 beta (ADVP _ )ADVP )VP )S
+9 . punct 2 beta _ )S
+
+# Sentence: The quantum encryption system protected sensitive data from cyber attacks.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 encryption nn 4 beta _ )NP
+4 system nn 5 alpha _ )NP )NP-SBJ
+5 protected vbd 0 alpha (VP _
+6 sensitive jj 7 beta (NP _
+7 data nn 5 alpha _ )NP
+8 from in 5 beta (PP _
+9 cyber nn 10 beta (NP _
+10 attacks nns 8 alpha _ )NP )PP )VP )S
+11 . punct 5 beta _ )S
+
+# Sentence: Renewable energy technologies transform global power generation systems effectively.
+
+IDX LEX POS HD ELEM RHS LHS
+1 renewable jj 2 beta (S (S (NP-SBJ (NP _
+2 energy nn 3 beta _ )NP
+3 technologies nns 4 alpha _ )NP )NP-SBJ
+4 transform vbp 0 alpha (VP _
+5 global jj 7 beta (NP _
+6 power nn 7 beta _ )NP
+7 generation nn 8 beta _ )NP
+8 systems nns 4 alpha _ )NP
+9 effectively rb 4 beta (ADVP _ )ADVP )VP )S
+10 . punct 4 beta _ )S
+
+# Sentence: Advanced neural networks process complex data patterns with high accuracy.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 neural jj 3 beta _ )NP
+3 networks nns 4 alpha _ )NP )NP-SBJ
+4 process vbp 0 alpha (VP _
+5 complex jj 7 beta (NP _
+6 data nn 7 beta _ )NP
+7 patterns nns 4 alpha _ )NP
+8 with in 4 beta (PP _
+9 high jj 10 beta (NP _
+10 accuracy nn 8 alpha _ )NP )PP )VP )S
+11 . punct 4 beta _ )S
+
+# Sentence: The autonomous vehicle navigates complex urban environments safely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 autonomous jj 3 beta _ )NP
+3 vehicle nn 4 alpha _ )NP )NP-SBJ
+4 navigates vbz 0 alpha (VP _
+5 complex jj 7 beta (NP _
+6 urban jj 7 beta _ )NP
+7 environments nns 4 alpha _ )NP
+8 safely rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Quantum computers solve complex mathematical problems instantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP _
+2 computers nns 3 alpha _ )NP )NP-SBJ
+3 solve vbp 0 alpha (VP _
+4 complex jj 6 beta (NP _
+5 mathematical jj 6 beta _ )NP
+6 problems nns 3 alpha _ )NP
+7 instantly rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: Smart city infrastructure monitors environmental conditions continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP _
+2 city nn 3 beta _ )NP
+3 infrastructure nn 4 alpha _ )NP )NP-SBJ
+4 monitors vbz 0 alpha (VP _
+5 environmental jj 6 beta (NP _
+6 conditions nns 4 alpha _ )NP
+7 continuously rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Biotechnology researchers develop innovative cancer treatment methods.
+
+IDX LEX POS HD ELEM RHS LHS
+1 biotechnology nn 2 beta (S (S (NP-SBJ (NP _
+2 researchers nns 3 alpha _ )NP )NP-SBJ
+3 develop vbp 0 alpha (VP _
+4 innovative jj 6 beta (NP _
+5 cancer nn 6 beta _ )NP
+6 treatment nn 7 beta _ )NP
+7 methods nns 3 alpha _ )NP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: The artificial intelligence system analyzes medical images accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 artificial jj 3 beta _ )NP
+3 intelligence nn 4 beta _ )NP
+4 system nn 5 alpha _ )NP )NP-SBJ
+5 analyzes vbz 0 alpha (VP _
+6 medical jj 7 beta (NP _
+7 images nns 5 alpha _ )NP
+8 accurately rb 5 beta (ADVP _ )ADVP )VP )S
+9 . punct 5 beta _ )S
+
+# Sentence: Advanced materials enable efficient energy storage solutions.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP _
+2 materials nns 3 alpha _ )NP )NP-SBJ
+3 enable vbp 0 alpha (VP _
+4 efficient jj 6 beta (NP _
+5 energy nn 6 beta _ )NP
+6 storage nn 7 beta _ )NP
+7 solutions nns 3 alpha _ )NP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: The neural interface translates brain signals into digital commands.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 interface nn 4 alpha _ )NP )NP-SBJ
+4 translates vbz 0 alpha (VP _
+5 brain nn 6 beta (NP _
+6 signals nns 4 alpha _ )NP
+7 into in 4 beta (PP _
+8 digital jj 9 beta (NP _
+9 commands nns 7 alpha _ )NP )PP )VP )S
+10 . punct 4 beta _ )S
+
+# Sentence: Sustainable manufacturing practices reduce environmental impact significantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 sustainable jj 3 beta (S (S (NP-SBJ (NP _
+2 manufacturing nn 3 beta _ )NP
+3 practices nns 4 alpha _ )NP )NP-SBJ
+4 reduce vbp 0 alpha (VP _
+5 environmental jj 6 beta (NP _
+6 impact nn 4 alpha _ )NP
+7 significantly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: The space telescope captures high-resolution images of distant galaxies.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 space nn 3 beta _ )NP
+3 telescope nn 4 alpha _ )NP )NP-SBJ
+4 captures vbz 0 alpha (VP _
+5 high-resolution jj 6 beta (NP _
+6 images nns 4 alpha _ )NP
+7 of in 6 beta (PP _
+8 distant jj 9 beta (NP _
+9 galaxies nns 7 alpha _ )NP )PP )VP )S
+10 . punct 4 beta _ )S
+
+# Sentence: Advanced cybersecurity systems protect sensitive data networks effectively.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 cybersecurity nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 protect vbp 0 alpha (VP _
+5 sensitive jj 7 beta (NP _
+6 data nn 7 beta _ )NP
+7 networks nns 4 alpha _ )NP
+8 effectively rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Researchers develop innovative drug delivery mechanisms for targeted therapy.
+
+IDX LEX POS HD ELEM RHS LHS
+1 researchers nns 2 alpha (S (S (NP-SBJ (NP _
+2 develop vbp 0 alpha (VP _
+3 innovative jj 5 beta (NP _
+4 drug nn 5 beta _ )NP
+5 delivery nn 6 beta _ )NP
+6 mechanisms nns 2 alpha _ )NP
+7 for in 2 beta (PP _
+8 targeted jj 9 beta (NP _
+9 therapy nn 7 alpha _ )NP )PP )VP )S
+10 . punct 2 beta _ )S
+
+# Sentence: The quantum sensor detects microscopic magnetic field variations precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 sensor nn 4 alpha _ )NP )NP-SBJ
+4 detects vbz 0 alpha (VP _
+5 microscopic jj 8 beta (NP _
+6 magnetic jj 7 beta _ )NP
+7 field nn 8 beta _ )NP
+8 variations nns 4 alpha _ )NP
+9 precisely rb 4 beta (ADVP _ )ADVP )VP )S
+10 . punct 4 beta _ )S
+
+# Sentence: Smart manufacturing robots optimize production processes automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 3 beta (S (S (NP-SBJ (NP _
+2 manufacturing nn 3 beta _ )NP
+3 robots nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 production nn 6 beta (NP _
+6 processes nns 4 alpha _ )NP
+7 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: The blockchain platform securely processes financial transactions globally.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 blockchain nn 3 beta _ )NP
+3 platform nn 4 alpha _ )NP )NP-SBJ
+4 processes vbz 0 alpha (VP _
+5 financial jj 6 beta (NP _
+6 transactions nns 4 alpha _ )NP
+7 securely rb 4 beta (ADVP _ )ADVP
+8 globally rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Advanced genetic algorithms optimize complex biological systems efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 genetic jj 3 beta _ )NP
+3 algorithms nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 complex jj 7 beta (NP _
+6 biological jj 7 beta _ )NP
+7 systems nns 4 alpha _ )NP
+8 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: The autonomous drone system monitors agricultural crop health continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 autonomous jj 3 beta _ )NP
+3 drone nn 4 beta _ )NP
+4 system nn 5 alpha _ )NP )NP-SBJ
+5 monitors vbz 0 alpha (VP _
+6 agricultural jj 8 beta (NP _
+7 crop nn 8 beta _ )NP
+8 health nn 5 alpha _ )NP
+9 continuously rb 5 beta (ADVP _ )ADVP )VP )S
+10 . punct 5 beta _ )S
+
+# Sentence: Innovative nanotechnology solutions enhance material properties significantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 innovative jj 3 beta (S (S (NP-SBJ (NP _
+2 nanotechnology nn 3 beta _ )NP
+3 solutions nns 4 alpha _ )NP )NP-SBJ
+4 enhance vbp 0 alpha (VP _
+5 material nn 6 beta (NP _
+6 properties nns 4 alpha _ )NP
+7 significantly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: The quantum computing platform solves optimization problems efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 computing nn 4 beta _ )NP
+4 platform nn 5 alpha _ )NP )NP-SBJ
+5 solves vbz 0 alpha (VP _
+6 optimization nn 7 beta (NP _
+7 problems nns 5 alpha _ )NP
+8 efficiently rb 5 beta (ADVP _ )ADVP )VP )S
+9 . punct 5 beta _ )S
+
+# Sentence: Advanced robotics systems perform delicate surgical procedures precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 robotics nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 perform vbp 0 alpha (VP _
+5 delicate jj 7 beta (NP _
+6 surgical jj 7 beta _ )NP
+7 procedures nns 4 alpha _ )NP
+8 precisely rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: The machine learning model predicts weather patterns accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 machine nn 3 beta _ )NP
+3 learning nn 4 beta _ )NP
+4 model nn 5 alpha _ )NP )NP-SBJ
+5 predicts vbz 0 alpha (VP _
+6 weather nn 7 beta (NP _
+7 patterns nns 5 alpha _ )NP
+8 accurately rb 5 beta (ADVP _ )ADVP )VP )S
+9 . punct 5 beta _ )S
+
+# Sentence: Researchers develop advanced materials for energy storage applications.
+
+IDX LEX POS HD ELEM RHS LHS
+1 researchers nns 2 alpha (S (S (NP-SBJ (NP _
+2 develop vbp 0 alpha (VP _
+3 advanced jj 4 beta (NP _
+4 materials nns 2 alpha _ )NP
+5 for in 2 beta (PP _
+6 energy nn 7 beta (NP _
+7 storage nn 8 beta _ )NP
+8 applications nns 5 alpha _ )NP )PP )VP )S
+9 . punct 2 beta _ )S
+
+# Sentence: The autonomous system optimizes traffic flow dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 autonomous jj 3 beta _ )NP
+3 system nn 4 alpha _ )NP )NP-SBJ
+4 optimizes vbz 0 alpha (VP _
+5 traffic nn 6 beta (NP _
+6 flow nn 4 alpha _ )NP
+7 dynamically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart sensors monitor environmental conditions continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP _
+5 conditions nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The quantum computer processes complex algorithms efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 computer nn 4 alpha _ )NP )NP-SBJ
+4 processes vbz 0 alpha (VP _
+5 complex jj 6 beta (NP _
+6 algorithms nns 4 alpha _ )NP
+7 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Advanced AI systems analyze large datasets rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 ai nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 analyze vbp 0 alpha (VP _
+5 large jj 6 beta (NP _
+6 datasets nns 4 alpha _ )NP
+7 rapidly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: The neural network learns complex patterns automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 network nn 4 alpha _ )NP )NP-SBJ
+4 learns vbz 0 alpha (VP _
+5 complex jj 6 beta (NP _
+6 patterns nns 4 alpha _ )NP
+7 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Researchers develop innovative drug delivery systems.
+
+IDX LEX POS HD ELEM RHS LHS
+1 researchers nns 2 alpha (S (S (NP-SBJ (NP _
+2 develop vbp 0 alpha (VP _
+3 innovative jj 6 beta (NP _
+4 drug nn 5 beta _ )NP
+5 delivery nn 6 beta _ )NP
+6 systems nns 2 alpha _ )NP )VP )S
+7 . punct 2 beta _ )S
+
+# Sentence: The autonomous robot navigates complex environments safely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 autonomous jj 3 beta _ )NP
+3 robot nn 4 alpha _ )NP )NP-SBJ
+4 navigates vbz 0 alpha (VP _
+5 complex jj 6 beta (NP _
+6 environments nns 4 alpha _ )NP
+7 safely rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart cities implement advanced transportation systems efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP _
+2 cities nns 3 alpha _ )NP )NP-SBJ
+3 implement vbp 0 alpha (VP _
+4 advanced jj 6 beta (NP _
+5 transportation nn 6 beta _ )NP
+6 systems nns 3 alpha _ )NP
+7 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: The quantum sensor detects minute changes accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 sensor nn 4 alpha _ )NP )NP-SBJ
+4 detects vbz 0 alpha (VP _
+5 minute jj 6 beta (NP _
+6 changes nns 4 alpha _ )NP
+7 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Advanced materials enhance battery performance significantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP _
+2 materials nns 3 alpha _ )NP )NP-SBJ
+3 enhance vbp 0 alpha (VP _
+4 battery nn 5 beta (NP _
+5 performance nn 3 alpha _ )NP
+6 significantly rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The neural interface processes brain signals instantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 interface nn 4 alpha _ )NP )NP-SBJ
+4 processes vbz 0 alpha (VP _
+5 brain nn 6 beta (NP _
+6 signals nns 4 alpha _ )NP
+7 instantly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Sustainable technologies reduce carbon emissions effectively.
+
+IDX LEX POS HD ELEM RHS LHS
+1 sustainable jj 2 beta (S (S (NP-SBJ (NP _
+2 technologies nns 3 alpha _ )NP )NP-SBJ
+3 reduce vbp 0 alpha (VP _
+4 carbon nn 5 beta (NP _
+5 emissions nns 3 alpha _ )NP
+6 effectively rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The AI system recognizes complex speech patterns accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 ai nn 3 beta _ )NP
+3 system nn 4 alpha _ )NP )NP-SBJ
+4 recognizes vbz 0 alpha (VP _
+5 complex jj 7 beta (NP _
+6 speech nn 7 beta _ )NP
+7 patterns nns 4 alpha _ )NP
+8 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Advanced robotics automate manufacturing processes efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP _
+2 robotics nn 3 alpha _ )NP )NP-SBJ
+3 automate vbp 0 alpha (VP _
+4 manufacturing nn 5 beta (NP _
+5 processes nns 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The quantum encryption protects sensitive communications securely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 encryption nn 4 alpha _ )NP )NP-SBJ
+4 protects vbz 0 alpha (VP _
+5 sensitive jj 6 beta (NP _
+6 communications nns 4 alpha _ )NP
+7 securely rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart grids optimize energy distribution automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP _
+2 grids nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 energy nn 5 beta (NP _
+5 distribution nn 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The neural model generates realistic images instantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 model nn 4 alpha _ )NP )NP-SBJ
+4 generates vbz 0 alpha (VP _
+5 realistic jj 6 beta (NP _
+6 images nns 4 alpha _ )NP
+7 instantly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Advanced robotics perform precision tasks automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 robotics nn 3 beta _ )NP
+3 perform vbp 0 alpha (VP _
+4 precision jj 7 beta (NP _
+5 tasks nns 4 alpha _ )NP
+6 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+7 . punct 4 beta _ )S
+
+# Sentence: The deep learning model analyzes medical imaging data efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 4 alpha (S (S (NP-SBJ (NP (DT _
+2 deep jj 3 beta _ )NP
+3 learning nn 4 beta _ )NP
+4 model nn 5 alpha _ )NP )NP-SBJ
+5 analyzes vbz 0 alpha (VP _
+6 medical jj 8 beta (NP _
+7 imaging nn 8 beta _ )NP
+8 data nn 5 alpha _ )NP
+9 efficiently rb 5 beta (ADVP _ )ADVP )VP )S
+10 . punct 5 beta _ )S
+
+# Sentence: Researchers develop innovative quantum computing algorithms rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 researchers nns 2 alpha (S (S (NP-SBJ (NP _
+2 develop vbp 0 alpha (VP _
+3 innovative jj 6 beta (NP _
+4 quantum jj 5 beta _ )NP
+5 computing nn 6 beta _ )NP
+6 algorithms nns 2 alpha _ )NP
+7 rapidly rb 2 beta (ADVP _ )ADVP )VP )S
+8 . punct 2 beta _ )S
+
+# Sentence: The autonomous system optimizes energy consumption patterns automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 autonomous jj 3 beta _ )NP
+3 system nn 4 alpha _ )NP )NP-SBJ
+4 optimizes vbz 0 alpha (VP _
+5 energy nn 7 beta (NP _
+6 consumption nn 7 beta _ )NP
+7 patterns nns 4 alpha _ )NP
+8 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Advanced neural networks process complex visual information efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 neural jj 3 beta _ )NP
+3 networks nns 4 alpha _ )NP )NP-SBJ
+4 process vbp 0 alpha (VP _
+5 complex jj 7 beta (NP _
+6 visual jj 7 beta _ )NP
+7 information nn 4 alpha _ )NP
+8 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Smart manufacturing systems optimize production efficiency continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 3 beta (S (S (NP-SBJ (NP _
+2 manufacturing nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 production nn 6 beta (NP _
+6 efficiency nn 4 alpha _ )NP
+7 continuously rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: The quantum computer solves complex optimization problems rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 computer nn 4 alpha _ )NP )NP-SBJ
+4 solves vbz 0 alpha (VP _
+5 complex jj 7 beta (NP _
+6 optimization nn 7 beta _ )NP
+7 problems nns 4 alpha _ )NP
+8 rapidly rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Advanced AI algorithms detect security threats automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP _
+2 ai nn 3 beta _ )NP
+3 algorithms nns 4 alpha _ )NP )NP-SBJ
+4 detect vbp 0 alpha (VP _
+5 security nn 6 beta (NP _
+6 threats nns 4 alpha _ )NP
+7 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: The neural interface translates brain signals efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 interface nn 4 alpha _ )NP )NP-SBJ
+4 translates vbz 0 alpha (VP _
+5 brain nn 6 beta (NP _
+6 signals nns 4 alpha _ )NP
+7 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Researchers develop innovative drug delivery mechanisms.
+
+IDX LEX POS HD ELEM RHS LHS
+1 researchers nns 2 alpha (S (S (NP-SBJ (NP _
+2 develop vbp 0 alpha (VP _
+3 innovative jj 6 beta (NP _
+4 drug nn 5 beta _ )NP
+5 delivery nn 6 beta _ )NP
+6 mechanisms nns 2 alpha _ )NP )VP )S
+7 . punct 2 beta _ )S
+
+# Sentence: Intelligent systems process big data efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP _
+2 systems nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 big jj 5 beta (NP _
+5 data nn 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The neural network classifies images accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 network nn 4 alpha _ )NP )NP-SBJ
+4 classifies vbz 0 alpha (VP _
+5 images nns 4 alpha (NP _ )NP
+6 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+7 . punct 4 beta _ )S
+
+# Sentence: Quantum sensors detect molecular changes precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 detect vbp 0 alpha (VP _
+4 molecular jj 5 beta (NP _
+5 changes nns 3 alpha _ )NP
+6 precisely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart factories optimize production workflows automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP _
+2 factories nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 production nn 5 beta (NP _
+5 workflows nns 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced algorithms analyze genomic sequences efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP _
+2 algorithms nns 3 alpha _ )NP )NP-SBJ
+3 analyze vbp 0 alpha (VP _
+4 genomic jj 5 beta (NP _
+5 sequences nns 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The quantum computer simulates molecular interactions accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 quantum jj 3 beta _ )NP
+3 computer nn 4 alpha _ )NP )NP-SBJ
+4 simulates vbz 0 alpha (VP _
+5 molecular jj 6 beta (NP _
+6 interactions nns 4 alpha _ )NP
+7 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart buildings regulate energy consumption automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP _
+2 buildings nns 3 alpha _ )NP )NP-SBJ
+3 regulate vbp 0 alpha (VP _
+4 energy nn 5 beta (NP _
+5 consumption nn 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: The neural system processes sensory information rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 the dt 3 alpha (S (S (NP-SBJ (NP (DT _
+2 neural jj 3 beta _ )NP
+3 system nn 4 alpha _ )NP )NP-SBJ
+4 processes vbz 0 alpha (VP _
+5 sensory jj 6 beta (NP _
+6 information nn 4 alpha _ )NP
+7 rapidly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Autonomous drones monitor environmental conditions continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 drones nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP (JJ _
+5 conditions nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Quantum cryptography systems protect sensitive data transmissions securely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 cryptography nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 protect vbp 0 alpha (VP _
+5 sensitive jj 7 beta (NP (JJ _
+6 data nn 7 beta _ )NP
+7 transmissions nns 4 alpha _ )NP
+8 securely rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Advanced nanosensors detect molecular changes instantaneously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 nanosensors nns 3 alpha _ )NP )NP-SBJ
+3 detect vbp 0 alpha (VP _
+4 molecular jj 5 beta (NP (JJ _
+5 changes nns 3 alpha _ )NP
+6 instantaneously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart energy grids optimize power distribution automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 energy nn 3 beta _ )NP
+3 grids nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 power nn 6 beta (NP _
+6 distribution nn 4 alpha _ )NP
+7 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Robotic surgical systems perform precise medical procedures accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 robotic jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 surgical jj 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 perform vbp 0 alpha (VP _
+5 precise jj 7 beta (NP (JJ _
+6 medical jj 7 beta _ )NP
+7 procedures nns 4 alpha _ )NP
+8 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Artificial intelligence algorithms optimize resource allocation dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 artificial jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 intelligence nn 3 beta _ )NP
+3 algorithms nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 resource nn 6 beta (NP _
+6 allocation nn 4 alpha _ )NP
+7 dynamically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Intelligent automation systems enhance industrial productivity significantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 automation nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 enhance vbp 0 alpha (VP _
+5 industrial jj 6 beta (NP (JJ _
+6 productivity nn 4 alpha _ )NP
+7 significantly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Advanced biotechnology platforms accelerate drug discovery processes efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 biotechnology nn 3 beta _ )NP
+3 platforms nns 4 alpha _ )NP )NP-SBJ
+4 accelerate vbp 0 alpha (VP _
+5 drug nn 6 beta (NP _
+6 discovery nn 7 beta _ )NP
+7 processes nns 4 alpha _ )NP
+8 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Smart healthcare systems monitor patient conditions continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 healthcare nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 monitor vbp 0 alpha (VP _
+5 patient nn 6 beta (NP _
+6 conditions nns 4 alpha _ )NP
+7 continuously rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Quantum computing algorithms solve optimization problems rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 computing nn 3 beta _ )NP
+3 algorithms nns 4 alpha _ )NP )NP-SBJ
+4 solve vbp 0 alpha (VP _
+5 optimization nn 6 beta (NP _
+6 problems nns 4 alpha _ )NP
+7 rapidly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Advanced neural processors analyze complex data patterns efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 neural jj 3 beta _ )NP
+3 processors nns 4 alpha _ )NP )NP-SBJ
+4 analyze vbp 0 alpha (VP _
+5 complex jj 7 beta (NP (JJ _
+6 data nn 7 beta _ )NP
+7 patterns nns 4 alpha _ )NP
+8 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+9 . punct 4 beta _ )S
+
+# Sentence: Autonomous vehicles navigate urban environments intelligently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 vehicles nns 3 alpha _ )NP )NP-SBJ
+3 navigate vbp 0 alpha (VP _
+4 urban jj 5 beta (NP (JJ _
+5 environments nns 3 alpha _ )NP
+6 intelligently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Machine learning models predict market trends accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 machine nn 2 beta (S (S (NP-SBJ (NP _
+2 learning nn 3 beta _ )NP
+3 models nns 4 alpha _ )NP )NP-SBJ
+4 predict vbp 0 alpha (VP _
+5 market nn 6 beta (NP _
+6 trends nns 4 alpha _ )NP
+7 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Biomedical sensors monitor vital signs continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 biomedical jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 vital jj 5 beta (NP (JJ _
+5 signs nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Quantum encryption protocols secure data transmission effectively.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 encryption nn 3 beta _ )NP
+3 protocols nns 4 alpha _ )NP )NP-SBJ
+4 secure vbp 0 alpha (VP _
+5 data nn 6 beta (NP _
+6 transmission nn 4 alpha _ )NP
+7 effectively rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart manufacturing robots optimize assembly processes automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 manufacturing nn 3 beta _ )NP
+3 robots nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 assembly nn 6 beta (NP _
+6 processes nns 4 alpha _ )NP
+7 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Intelligent robots perform complex manufacturing tasks precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 robots nns 3 alpha _ )NP )NP-SBJ
+3 perform vbp 0 alpha (VP _
+4 complex jj 6 beta (NP (JJ _
+5 manufacturing nn 6 beta _ )NP
+6 tasks nns 3 alpha _ )NP
+7 precisely rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: Advanced sensors monitor environmental parameters continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP (JJ _
+5 parameters nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Neural networks process complex data streams efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 networks nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 complex jj 6 beta (NP (JJ _
+5 data nn 6 beta _ )NP
+6 streams nns 3 alpha _ )NP
+7 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: Quantum computers solve optimization problems instantaneously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 computers nns 3 alpha _ )NP )NP-SBJ
+3 solve vbp 0 alpha (VP _
+4 optimization nn 5 beta (NP _
+5 problems nns 3 alpha _ )NP
+6 instantaneously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart systems optimize resource utilization dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 systems nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 resource nn 5 beta (NP _
+5 utilization nn 3 alpha _ )NP
+6 dynamically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Automated drones survey agricultural fields systematically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 automated jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 drones nns 3 alpha _ )NP )NP-SBJ
+3 survey vbp 0 alpha (VP _
+4 agricultural jj 5 beta (NP (JJ _
+5 fields nns 3 alpha _ )NP
+6 systematically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Intelligent algorithms optimize traffic patterns dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 algorithms nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 traffic nn 5 beta (NP _
+5 patterns nns 3 alpha _ )NP
+6 dynamically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced robotics systems perform microsurgery precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 robotics nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 perform vbp 0 alpha (VP _
+5 microsurgery nn 4 alpha (NP _ )NP
+6 precisely rb 4 beta (ADVP _ )ADVP )VP )S
+7 . punct 4 beta _ )S
+
+# Sentence: Quantum processors execute parallel computations efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 processors nns 3 alpha _ )NP )NP-SBJ
+3 execute vbp 0 alpha (VP _
+4 parallel jj 5 beta (NP (JJ _
+5 computations nns 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart sensors detect environmental changes automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 detect vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP (JJ _
+5 changes nns 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Robotic assistants perform surgical procedures precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 robotic jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 assistants nns 3 alpha _ )NP )NP-SBJ
+3 perform vbp 0 alpha (VP _
+4 surgical jj 5 beta (NP (JJ _
+5 procedures nns 3 alpha _ )NP
+6 precisely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Intelligent systems analyze medical data efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 systems nns 3 alpha _ )NP )NP-SBJ
+3 analyze vbp 0 alpha (VP _
+4 medical jj 5 beta (NP (JJ _
+5 data nn 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Quantum networks transmit encrypted messages securely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 networks nns 3 alpha _ )NP )NP-SBJ
+3 transmit vbp 0 alpha (VP _
+4 encrypted jj 5 beta (NP (JJ _
+5 messages nns 3 alpha _ )NP
+6 securely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced algorithms process genomic data rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 algorithms nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 genomic jj 5 beta (NP (JJ _
+5 data nn 3 alpha _ )NP
+6 rapidly rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart devices monitor health parameters continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 devices nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 health nn 5 beta (NP _
+5 parameters nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Autonomous robots navigate complex industrial environments safely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 robots nns 3 alpha _ )NP )NP-SBJ
+3 navigate vbp 0 alpha (VP _
+4 complex jj 6 beta (NP (JJ _
+5 industrial jj 6 beta _ )NP
+6 environments nns 3 alpha _ )NP
+7 safely rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: Neural interfaces process brain signals instantaneously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 interfaces nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 brain nn 5 beta (NP _
+5 signals nns 3 alpha _ )NP
+6 instantaneously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart sensors detect environmental hazards automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 detect vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP (JJ _
+5 hazards nns 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Quantum computers process complex calculations efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 computers nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 complex jj 5 beta (NP (JJ _
+5 calculations nns 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced algorithms optimize system performance dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 algorithms nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 system nn 5 beta (NP _
+5 performance nn 3 alpha _ )NP
+6 dynamically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Intelligent machines optimize manufacturing processes automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 machines nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 manufacturing nn 5 beta (NP _
+5 processes nns 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced robotics control industrial operations precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 robotics nn 3 alpha _ )NP )NP-SBJ
+3 control vbp 0 alpha (VP _
+4 industrial jj 5 beta (NP (JJ _
+5 operations nns 3 alpha _ )NP
+6 precisely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Neural networks analyze medical images accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 networks nns 3 alpha _ )NP )NP-SBJ
+3 analyze vbp 0 alpha (VP _
+4 medical jj 5 beta (NP (JJ _
+5 images nns 3 alpha _ )NP
+6 accurately rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Quantum systems process encrypted data securely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 systems nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 encrypted jj 5 beta (NP (JJ _
+5 data nn 3 alpha _ )NP
+6 securely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart sensors detect environmental changes instantly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 sensors nns 3 alpha _ )NP )NP-SBJ
+3 detect vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP (JJ _
+5 changes nns 3 alpha _ )NP
+6 instantly rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced quantum processors analyze scientific data rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 quantum jj 3 beta _ )NP
+3 processors nns 4 alpha _ )NP )NP-SBJ
+4 analyze vbp 0 alpha (VP _
+5 scientific jj 6 beta (NP (JJ _
+6 data nn 4 alpha _ )NP
+7 rapidly rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Intelligent robots optimize industrial workflows automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 robots nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 industrial jj 5 beta (NP (JJ _
+5 workflows nns 3 alpha _ )NP
+6 automatically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Neural interfaces process cognitive signals efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 interfaces nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 cognitive jj 5 beta (NP (JJ _
+5 signals nns 3 alpha _ )NP
+6 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Smart nanosensors monitor molecular structures continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 nanosensors nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 molecular jj 5 beta (NP (JJ _
+5 structures nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Autonomous systems optimize energy distribution dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 systems nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 energy nn 5 beta (NP _
+5 distribution nn 3 alpha _ )NP
+6 dynamically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Intelligent nanobots deliver targeted medical treatments effectively.
+
+IDX LEX POS HD ELEM RHS LHS
+1 intelligent jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 nanobots nns 3 alpha _ )NP )NP-SBJ
+3 deliver vbp 0 alpha (VP _
+4 targeted jj 6 beta (NP (JJ _
+5 medical jj 6 beta _ )NP
+6 treatments nns 3 alpha _ )NP
+7 effectively rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
+# Sentence: Advanced quantum networks enable secure communication protocols.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 quantum jj 3 beta _ )NP
+3 networks nns 4 alpha _ )NP )NP-SBJ
+4 enable vbp 0 alpha (VP _
+5 secure jj 7 beta (NP (JJ _
+6 communication nn 7 beta _ )NP
+7 protocols nns 4 alpha _ )NP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart manufacturing systems optimize production quality automatically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 manufacturing nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 optimize vbp 0 alpha (VP _
+5 production nn 6 beta (NP _
+6 quality nn 4 alpha _ )NP
+7 automatically rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Autonomous drones monitor environmental conditions precisely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 drones nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 environmental jj 5 beta (NP (JJ _
+5 conditions nns 3 alpha _ )NP
+6 precisely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Neural interfaces translate brain signals instantaneously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 interfaces nns 3 alpha _ )NP )NP-SBJ
+3 translate vbp 0 alpha (VP _
+4 brain nn 5 beta (NP _
+5 signals nns 3 alpha _ )NP
+6 instantaneously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced biotechnology platforms accelerate genetic research efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 biotechnology nn 3 beta _ )NP
+3 platforms nns 4 alpha _ )NP )NP-SBJ
+4 accelerate vbp 0 alpha (VP _
+5 genetic jj 6 beta (NP (JJ _
+6 research nn 4 alpha _ )NP
+7 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart microprocessors optimize computational tasks dynamically.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 microprocessors nns 3 alpha _ )NP )NP-SBJ
+3 optimize vbp 0 alpha (VP _
+4 computational jj 5 beta (NP (JJ _
+5 tasks nns 3 alpha _ )NP
+6 dynamically rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Autonomous vehicles navigate traffic conditions intelligently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 vehicles nns 3 alpha _ )NP )NP-SBJ
+3 navigate vbp 0 alpha (VP _
+4 traffic nn 5 beta (NP (NN _
+5 conditions nns 3 alpha _ )NP
+6 intelligently rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Quantum encryption systems protect digital communications securely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 encryption nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 protect vbp 0 alpha (VP _
+5 digital jj 6 beta (NP (JJ _
+6 communications nns 4 alpha _ )NP
+7 securely rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+# Sentence: Neural networks process sensory information rapidly.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 networks nns 3 alpha _ )NP )NP-SBJ
+3 process vbp 0 alpha (VP _
+4 sensory jj 5 beta (NP (JJ _
+5 information nn 3 alpha _ )NP
+6 rapidly rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Advanced machine learning models predict market trends accurately.
+
+IDX LEX POS HD ELEM RHS LHS
+1 advanced jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 machine nn 3 beta _ )NP
+3 models nns 4 alpha _ )NP )NP-SBJ
+4 predict vbp 0 alpha (VP _
+5 market nn 6 beta (NP _
+6 trends nns 4 alpha _ )NP
+7 accurately rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Quantum computing systems solve optimization problems efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 quantum jj 3 beta (S (S (NP-SBJ (NP (JJ _
+2 computing nn 3 beta _ )NP
+3 systems nns 4 alpha _ )NP )NP-SBJ
+4 solve vbp 0 alpha (VP _
+5 optimization nn 6 beta (NP _
+6 problems nns 4 alpha _ )NP
+7 efficiently rb 4 beta (ADVP _ )ADVP )VP )S
+8 . punct 4 beta _ )S
+
+# Sentence: Smart biosensors monitor cellular activities continuously.
+
+IDX LEX POS HD ELEM RHS LHS
+1 smart jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 biosensors nns 3 alpha _ )NP )NP-SBJ
+3 monitor vbp 0 alpha (VP _
+4 cellular jj 5 beta (NP (JJ _
+5 activities nns 3 alpha _ )NP
+6 continuously rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Autonomous vehicles navigate urban environments safely.
+
+IDX LEX POS HD ELEM RHS LHS
+1 autonomous jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 vehicles nns 3 alpha _ )NP )NP-SBJ
+3 navigate vbp 0 alpha (VP _
+4 urban jj 5 beta (NP (JJ _
+5 environments nns 3 alpha _ )NP
+6 safely rb 3 beta (ADVP _ )ADVP )VP )S
+7 . punct 3 beta _ )S
+
+# Sentence: Neural processors analyze brain wave patterns efficiently.
+
+IDX LEX POS HD ELEM RHS LHS
+1 neural jj 2 beta (S (S (NP-SBJ (NP (JJ _
+2 processors nns 3 alpha _ )NP )NP-SBJ
+3 analyze vbp 0 alpha (VP _
+4 brain nn 6 beta (NP _
+5 wave nn 6 beta _ )NP
+6 patterns nns 3 alpha _ )NP
+7 efficiently rb 3 beta (ADVP _ )ADVP )VP )S
+8 . punct 3 beta _ )S
+
